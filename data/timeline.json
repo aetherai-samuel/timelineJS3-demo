@@ -9,6 +9,19 @@
       "text": "aetherAI’s mission is to use state-of-the-art information technology to improve standards of healthcare and quality of human life."
     }
   },
+  "eras": [
+    {
+      "start_date": {
+        "month": "10",
+        "day": "7",
+        "year": "2015"
+      },
+      "text": {
+        "headline": "Founding",
+        "text": "123"
+      }
+    }
+  ],
   "events": [
     {
       "media": {
