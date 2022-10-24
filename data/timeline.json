@@ -1,0 +1,29 @@
+{
+  "title": {
+    "media": {
+      "url": "https://static.wixstatic.com/media/6f042f_80157af3ed654c8c8adf8827ef9f5ba6~mv2.png/v1/fill/w_176,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/aetherAI_logo_all_dual_white.png",
+      "caption": "Advocating AI - driven Digital Pathology"
+    },
+    "text": {
+      "headline": "aetherAI <br/> 2015-2022",
+      "text": "aetherAI’s mission is to use state-of-the-art information technology to improve standards of healthcare and quality of human life."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://static.wixstatic.com/media/0aa3a6_0196552d99384259ad3f601b10394a45~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/0aa3a6_0196552d99384259ad3f601b10394a45~mv2.jpg",
+        "caption": "國內首項「大腸鏡即時AI瘜肉偵測」智慧醫材認證"
+      },
+      "start_date": {
+        "month": "8",
+        "day": "9",
+        "year": "1963"
+      },
+      "text": {
+        "headline": "國內首項「大腸鏡即時AI瘜肉偵測」智慧醫材認證",
+        "text": "臺大醫院、國泰綜合醫院與雲象科技宣布，三方合作的「大腸鏡即時AI瘜肉偵測 aetherAI Endo」獲得衛福部TFDA醫材許可，加入打擊國人癌症之首—大腸癌的防治工作。這項成果，不僅可望利用AI輔助，提升大腸鏡檢查的效能，並且推動提升大腸癌篩檢品質的各項工程，從目前第一階段的篩檢，到病灶診斷分類以及整體品質之控管，全方位借助 AI 優勢，輔助醫師診治，力求打擊多年來揮之不去的「癌王」夢魘。"
+      }
+    }
+  ]
+}
